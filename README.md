@@ -8,6 +8,9 @@ This repository contains various Power BI projects that analyze different datase
 
 This project analyzes Amazon Prime Video data, providing insights into the platform's content library, including total titles, ratings, genres, directors, and more.
 
+#### Dashboard Preview
+![Amazon Prime Video Dashboard](./Amazon-Prime-Video/Amazon%20Prime%20Video.PNG)
+
 #### Key Metrics
 - **Total Titles**
 - **Total Ratings**
@@ -16,12 +19,12 @@ This project analyzes Amazon Prime Video data, providing insights into the platf
 - **Total Countries**
 - **Release Year**
 
-#### Dashboard Preview
-![Amazon Prime Video Dashboard](./Amazon-Prime-Video/Amazon%20Prime%20Video.PNG)
-
 ### 2. [Bookreads](./Goodreads-Analytics)
 
 This project analyzes Goodreads data, providing insights into the book database, including metrics such as books by year, number of pages, authors, publishers, and more.
+
+#### Dashboard Preview
+![Goodreads Analytics Dashboard](./Goodreads/Goodreads.PNG)
 
 #### Key Metrics
 - **Books by Year**
@@ -30,12 +33,12 @@ This project analyzes Goodreads data, providing insights into the book database,
 - **Books by Publisher**
 - **Ratings Count by Title**
 
-#### Dashboard Preview
-![Goodreads Analytics Dashboard](./Goodreads/Goodreads.PNG)
-
 ### 3. [HR Analytics](./HR-Analytics)
 
 This project analyzes HR data, providing insights into various HR metrics, including employee attrition, job satisfaction, and demographic analysis.
+
+#### Dashboard Preview
+![HR Analytics Dashboard](./HR-Analytics/HR%20Analytics%20Dashboard.PNG)
 
 #### Key Metrics
 - **Number of Employees**
@@ -49,12 +52,14 @@ This project analyzes HR data, providing insights into various HR metrics, inclu
 - **Attrition by Education Field**
 - **Attrition By Gender for Different Age Groups**
 
-#### Dashboard Preview
-![HR Analytics Dashboard](./HR-Analytics/HR%20Analytics%20Dashboard.PNG)
-
 ### 4. [Stock Market Analysis](./Stock-Market-Analysis)
 
 This project analyzes the S&P 500 stock market data from 2016 to 2024, providing insights into market trends, sector performance, and trading volumes.
+
+#### Dashboard Preview
+![SP 500 Overview](./Stock-Market/Images/1.SP_500.png)
+![Volume Analysis](./Stock-Market/Images/2.Volume.png)
+![Stock Price Analysis](./Stock-Market/Images/3.Stock_Price.png)
 
 #### Key Metrics
 - **SP-500 evolution across Time**
@@ -66,11 +71,6 @@ This project analyzes the S&P 500 stock market data from 2016 to 2024, providing
 - **Volume across time by Sector**
 - **Volume by Sector (2024)**
 - **Stock Price evolution across Time**
-
-#### Dashboard Preview
-![SP 500 Overview](./Stock-Market/Images/1.SP_500.png)
-![Volume Analysis](./Stock-Market/Images/2.Volume.png)
-![Stock Price Analysis](./Stock-Market/Images/3.Stock_Price.png)
 
 ## Conclusion
 Each project in this repository provides valuable insights into different domains through interactive and comprehensive Power BI dashboards. Feel free to explore the data and share your insights!
