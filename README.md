@@ -31,7 +31,7 @@ This project analyzes Goodreads data, providing insights into the book database,
 - **Ratings Count by Title**
 
 #### Dashboard Preview
-![Goodreads Analytics Dashboard](./Goodreads/Bookreads.PNG)
+![Goodreads Analytics Dashboard](./Goodreads/Goodreads.PNG)
 
 ### 3. [HR Analytics](./HR-Analytics)
 
@@ -69,8 +69,8 @@ This project analyzes the S&P 500 stock market data from 2016 to 2024, providing
 
 #### Dashboard Preview
 ![SP 500 Overview](./Stock-Market/Images/1.SP_500.png)
-![Volume Analysis](./Stock-Market/Images/3.Volume.png)
-![Stock Price Analysis](./Stock-Market/Images/2.Stock_Price.png)
+![Volume Analysis](./Stock-Market/Images/2.Volume.png)
+![Stock Price Analysis](./Stock-Market/Images/3.Stock_Price.png)
 
 ## Conclusion
 Each project in this repository provides valuable insights into different domains through interactive and comprehensive Power BI dashboards. Feel free to explore the data and share your insights!
