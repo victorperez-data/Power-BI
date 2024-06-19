@@ -61,11 +61,11 @@ This project analyzes the S&P 500 stock market data from 2016 to 2024, providing
 - **Marketcap share (Top 10) by Stock**
 - **Marketcap share (Top 7) by Sector**
 - **Marketcap share (Top 7) by Industry**
-- **Stock Price evolution across Time**
 - **Volume across time by Industry**
 - **Volume by Industry (2024)**
 - **Volume across time by Sector**
 - **Volume by Sector (2024)**
+- **Stock Price evolution across Time**
 
 #### Dashboard Preview
 ![SP 500 Overview](./Stock-Market/Images/1.SP_500.png)
