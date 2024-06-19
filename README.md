@@ -68,9 +68,9 @@ This project analyzes the S&P 500 stock market data from 2016 to 2024, providing
 - **Volume by Sector (2024)**
 
 #### Dashboard Preview
-![SP 500 Overview](./Stock-Market/1.SP_500.png)
-![Volume Analysis](./Stock-Market/3.Volume.png)
-![Stock Price Analysis](./Stock-Market/2.Stock_Price.png)
+![SP 500 Overview](./Stock-Market/Images/1.SP_500.png)
+![Volume Analysis](./Stock-Market/Images/3.Volume.png)
+![Stock Price Analysis](./Stock-Market/Images/2.Stock_Price.png)
 
 ## Conclusion
 Each project in this repository provides valuable insights into different domains through interactive and comprehensive Power BI dashboards. Feel free to explore the data and share your insights!

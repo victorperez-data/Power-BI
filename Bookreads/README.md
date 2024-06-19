@@ -6,7 +6,7 @@ This repository contains a Power BI project analyzing Goodreads data. The dashbo
 
 The Goodreads Analytics Dashboard offers a comprehensive analysis of the book database on Goodreads. It highlights key statistics and trends that provide insights into the platform's content and user preferences.
 
-![Goodreads Analytics Dashboard](./Bookreads.PNG)
+![Goodreads Analytics Dashboard](./Gookreads.PNG)
 
 ### Key Metrics
 
