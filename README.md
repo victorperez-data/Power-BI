@@ -62,7 +62,7 @@ This project analyzes HR data, providing insights into various HR metrics, inclu
 This project analyzes Airbnb data, providing insights into the platform's operations, including total hosts, total listings, total reviews, pricing trends, and room type distribution.
 
 #### Dashboard Preview
-![Airbnb Dashboard](./Airbnb/airbnb.PNG)
+![Airbnb Dashboard](./Airbnb/airbnb.png)
 
 #### Key Metrics
 - **Total Hosts**
