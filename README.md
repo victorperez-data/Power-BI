@@ -18,6 +18,11 @@ This project analyzes Amazon Prime Video data, providing insights into the platf
 - **Total Directors**
 - **Total Countries**
 - **Release Year**
+- **Ratings by Total Shows**
+- **Genres by Total Shows**
+- **Total Shows by Country**
+- **Movies and TV Shows**
+- **Total Shows by Release Year**
 
 ### 2. [Bookreads](./Goodreads-Analytics)
 
@@ -52,7 +57,26 @@ This project analyzes HR data, providing insights into various HR metrics, inclu
 - **Attrition by Education Field**
 - **Attrition By Gender for Different Age Groups**
 
-### 4. [Stock Market Analysis](./Stock-Market-Analysis)
+### 4. [Airbnb](./Airbnb)
+
+This project analyzes Airbnb data, providing insights into the platform's operations, including total hosts, total listings, total reviews, pricing trends, and room type distribution.
+
+#### Dashboard Preview
+![Airbnb Dashboard](./Airbnb/airbnb.PNG)
+
+#### Key Metrics
+- **Total Hosts**
+- **Total Listings**
+- **Total Reviews**
+- **Listings Across Time**
+- **Listings by Price**
+- **Listings by Room Type**
+- **Min. Nights (Avg) by Room and Host Type**
+- **Price (Avg) by Room and Host Type**
+- **Percentage of Reviews by Room Type**
+- **Percentage of Reviews by Host Type**
+
+### 5. [Stock Market Analysis](./Stock-Market-Analysis)
 
 This project analyzes the S&P 500 stock market data from 2016 to 2024, providing insights into market trends, sector performance, and trading volumes.
 
