@@ -76,7 +76,7 @@ This project analyzes Airbnb data, providing insights into the platform's operat
 - **Percentage of Reviews by Room Type**
 - **Percentage of Reviews by Host Type**
 
-### 5. [Stock Market Analysis](./Stock-Market-Analysis)
+### 5. [Stock Market Analysis](./Stock-Market)
 
 This project analyzes the S&P 500 stock market data from 2016 to 2024, providing insights into market trends, sector performance, and trading volumes.
 
