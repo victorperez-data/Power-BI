@@ -4,7 +4,26 @@ This repository contains various Power BI projects that analyze different datase
 
 ## Projects Overview
 
-### 1. [Amazon Prime Video](./Amazon-Prime-Video)
+### 1. [Airbnb](./Airbnb)
+
+This project analyzes Airbnb data, providing insights into the platform's operations, including total hosts, total listings, total reviews, pricing trends, and room type distribution.
+
+#### Dashboard Preview
+![Airbnb Dashboard](./Airbnb/airbnb.png)
+
+#### Key Metrics
+- **Total Hosts**
+- **Total Listings**
+- **Total Reviews**
+- **Listings Across Time**
+- **Listings by Price**
+- **Listings by Room Type**
+- **Min. Nights (Avg) by Room and Host Type**
+- **Price (Avg) by Room and Host Type**
+- **Percentage of Reviews by Room Type**
+- **Percentage of Reviews by Host Type**
+
+### 2. [Amazon Prime Video](./Amazon-Prime-Video)
 
 This project analyzes Amazon Prime Video data, providing insights into the platform's content library, including total titles, ratings, genres, directors, and more.
 
@@ -24,7 +43,7 @@ This project analyzes Amazon Prime Video data, providing insights into the platf
 - **Movies and TV Shows**
 - **Total Shows by Release Year**
 
-### 2. [Bookreads](./Goodreads-Analytics)
+### 3. [Bookreads](./Goodreads-Analytics)
 
 This project analyzes Goodreads data, providing insights into the book database, including metrics such as books by year, number of pages, authors, publishers, and more.
 
@@ -38,7 +57,7 @@ This project analyzes Goodreads data, providing insights into the book database,
 - **Books by Publisher**
 - **Ratings Count by Title**
 
-### 3. [HR Analytics](./HR-Analytics)
+### 4. [HR Analytics](./HR-Analytics)
 
 This project analyzes HR data, providing insights into various HR metrics, including employee attrition, job satisfaction, and demographic analysis.
 
@@ -56,25 +75,6 @@ This project analyzes HR data, providing insights into various HR metrics, inclu
 - **Job Satisfaction Rating**
 - **Attrition by Education Field**
 - **Attrition By Gender for Different Age Groups**
-
-### 4. [Airbnb](./Airbnb)
-
-This project analyzes Airbnb data, providing insights into the platform's operations, including total hosts, total listings, total reviews, pricing trends, and room type distribution.
-
-#### Dashboard Preview
-![Airbnb Dashboard](./Airbnb/airbnb.png)
-
-#### Key Metrics
-- **Total Hosts**
-- **Total Listings**
-- **Total Reviews**
-- **Listings Across Time**
-- **Listings by Price**
-- **Listings by Room Type**
-- **Min. Nights (Avg) by Room and Host Type**
-- **Price (Avg) by Room and Host Type**
-- **Percentage of Reviews by Room Type**
-- **Percentage of Reviews by Host Type**
 
 ### 5. [Stock Market Analysis](./Stock-Market)
 
